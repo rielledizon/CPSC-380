@@ -3,7 +3,7 @@
 * Student ID: 2282971
 * Student Email: dizon110@mail.chapman.edu
 *
-* CPSC 370-01
+* CPSC 380-01
 * Assignment 1 (Sudoku Solution Validator)
 *
 * main.cpp – Checks a given txt file with a 9x9 sudoku grid for duplicates.
